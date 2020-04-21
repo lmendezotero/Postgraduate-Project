@@ -1,5 +1,5 @@
 # Postgraduate-Project 🚀
-A repository to show the programming languages and workflow of different database management systems learned in the Data Science Postgraduate Course.
+A repository to show XXXX about the Final Project of the Postgraduate Course.
 
 ## Authors ✒️
 
