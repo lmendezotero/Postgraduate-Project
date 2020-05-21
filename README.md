@@ -3,7 +3,7 @@ A repository to show the XXX of the Final Project of the Data Science Postgradua
 
 ## Authors ✒️
 
-* **Lorena Méndez Otero** - *Initial work* - [lmendezotero](https://github.com/lmendezotero) 
-* **Nuria Sanchez** - *Initial work* - [NuriaSanchezc](https://github.com/NuriaSanchezc) 
-* **Theresa Kothe** - *Initial work* - [TheKothe](https://github.com/TheKothe) 
-* **Theresa Kothe** - *Initial work* - [Christian Tipantuña](https://github.com/ChristianTipantuna) 
+* **Lorena Méndez Otero** - [lmendezotero](https://github.com/lmendezotero) 
+* **Nuria Sanchez** - [NuriaSanchezc](https://github.com/NuriaSanchezc) 
+* **Theresa Kothe** - [TheKothe](https://github.com/TheKothe) 
+* **Theresa Kothe** - [Christian Tipantuña](https://github.com/ChristianTipantuna) 
