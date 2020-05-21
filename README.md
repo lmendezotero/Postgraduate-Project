@@ -1,5 +1,5 @@
 # House Prices Prediction Project 🚀
-A repository to show XXXX about the Final Project of the Data Science Postgraduate Course in the University of Barcelona.
+A repository to show the XXX of the Final Project of the Data Science Postgraduate Course in the University of Barcelona.
 
 ## Authors ✒️
 
