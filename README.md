@@ -3,6 +3,7 @@ A repository to store all the material used to build the the Final Project of th
 
 ### Description of the project
 
+
 ### Folders Structure & Project Notes 📋
 
 [House Prices Prediction - Project Notes](https://1drv.ms/u/s!AgWTAJ13ZxntgiNbXYB0wrdY_iik?e=D2tikf)
