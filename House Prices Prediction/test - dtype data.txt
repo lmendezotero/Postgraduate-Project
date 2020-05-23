@@ -1,0 +1,92 @@
+<class 'pandas.core.frame.DataFrame'>
+RangeIndex: 1459 entries, 0 to 1458
+Data columns (total 80 columns):
+
+Id               1459 non-null int64
+MSSubClass       1459 non-null int64
+LotArea          1459 non-null int64
+OverallQual      1459 non-null int64
+OverallCond      1459 non-null int64
+YearBuilt        1459 non-null int64
+YearRemodAdd     1459 non-null int64
+1stFlrSF         1459 non-null int64
+2ndFlrSF         1459 non-null int64
+LowQualFinSF     1459 non-null int64
+GrLivArea        1459 non-null int64
+FullBath         1459 non-null int64
+HalfBath         1459 non-null int64
+BedroomAbvGr     1459 non-null int64
+KitchenAbvGr     1459 non-null int64
+TotRmsAbvGrd     1459 non-null int64
+Fireplaces       1459 non-null int64
+WoodDeckSF       1459 non-null int64
+OpenPorchSF      1459 non-null int64
+EnclosedPorch    1459 non-null int64
+3SsnPorch        1459 non-null int64
+ScreenPorch      1459 non-null int64
+PoolArea         1459 non-null int64
+MiscVal          1459 non-null int64
+MoSold           1459 non-null int64
+YrSold           1459 non-null int64
+
+
+LotFrontage      1232 non-null float64
+MasVnrArea       1444 non-null float64
+BsmtFinSF1       1458 non-null float64
+BsmtFinSF2       1458 non-null float64
+BsmtUnfSF        1458 non-null float64
+TotalBsmtSF      1458 non-null float64
+BsmtFullBath     1457 non-null float64
+BsmtHalfBath     1457 non-null float64
+GarageYrBlt      1381 non-null float64
+GarageCars       1458 non-null float64
+GarageArea       1458 non-null float64
+
+
+MSZoning         1455 non-null object
+Street           1459 non-null object
+Alley            107 non-null object
+LotShape         1459 non-null object
+LandContour      1459 non-null object
+Utilities        1457 non-null object
+LotConfig        1459 non-null object
+LandSlope        1459 non-null object
+Neighborhood     1459 non-null object
+Condition1       1459 non-null object
+Condition2       1459 non-null object
+BldgType         1459 non-null object
+HouseStyle       1459 non-null object
+RoofStyle        1459 non-null object
+RoofMatl         1459 non-null object
+Exterior1st      1458 non-null object
+Exterior2nd      1458 non-null object
+MasVnrType       1443 non-null object
+ExterQual        1459 non-null object
+ExterCond        1459 non-null object
+Foundation       1459 non-null object
+BsmtQual         1415 non-null object
+BsmtCond         1414 non-null object
+BsmtExposure     1415 non-null object
+BsmtFinType1     1417 non-null object
+BsmtFinType2     1417 non-null object
+Heating          1459 non-null object
+HeatingQC        1459 non-null object
+CentralAir       1459 non-null object
+Electrical       1459 non-null object
+KitchenQual      1458 non-null object
+Functional       1457 non-null object
+FireplaceQu      729 non-null object
+GarageType       1383 non-null object
+GarageFinish     1381 non-null object
+GarageQual       1381 non-null object
+GarageCond       1381 non-null object
+PavedDrive       1459 non-null object
+PoolQC           3 non-null object
+Fence            290 non-null object
+MiscFeature      51 non-null object
+SaleType         1458 non-null object
+SaleCondition    1459 non-null object
+
+
+dtypes: float64(11), int64(26), object(43)
+memory usage: 912.0+ KB
