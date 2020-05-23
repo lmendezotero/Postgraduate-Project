@@ -1,5 +1,5 @@
 # House Prices Prediction Project 🚀
-A repository to store all the material used to build the the Final Project of the Data Science Postgraduate Course in the University of Barcelona.
+A repository to store all the material used to build the Final Project of the Data Science Postgraduate Course in the University of Barcelona.
 
 ### Description of the project
 
