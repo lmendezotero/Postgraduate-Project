@@ -8,6 +8,10 @@ A repository to store all the material used to build the Final Project of the Da
 
 [House Prices Prediction - Project Notes](https://1drv.ms/u/s!AgWTAJ13ZxntgiNbXYB0wrdY_iik?e=D2tikf)
 
+### Collaborative Notebooks & Other Resources 📋
+
+[Google Drive - Colab Notebooks](https://drive.google.com/drive/folders/1kjrA89WLGD88FQKR8QYhqIiHiNRWg--l)
+
 
 ## Authors ✒️
 
