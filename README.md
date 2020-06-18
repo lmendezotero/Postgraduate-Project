@@ -4,7 +4,7 @@ A repository to store all the material used to build the Final Project of the Da
 ### Description of the project
 
 
-### Folders Structure & Project Notes 📋
+### Project Notes & Content 📋
 
 [OneNote - House Prices Prediction](https://1drv.ms/u/s!AgWTAJ13ZxntgiNbXYB0wrdY_iik?e=D2tikf)
 
