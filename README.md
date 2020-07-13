@@ -9,7 +9,7 @@ A repository to store all the material used to build the Final Project of the Da
 
 [OneNote - House Prices Prediction](https://1drv.ms/u/s!AgWTAJ13ZxntgiNbXYB0wrdY_iik?e=D2tikf)
 
-[Jupyter Notebook - House Prices Prediction](https://github.com/lmendezotero/Postgraduate-Project/blob/master/House%20Prices%20Prediction/House%20Prices%20Prediction.ipynb)
+[Jupyter Notebook - House Prices Prediction] (https://github.com/lmendezotero/Postgraduate-Project/blob/master/House%20Prices%20Prediction/House%20Prices%20Prediction.ipynb)
 
 [PTT - House Prices Prediction](https://1drv.ms/p/s!AgWTAJ13Zxntgk9s6RvyMqEin8Qu?e=PYdvNY)
 
