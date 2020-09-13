@@ -5,7 +5,7 @@ A repository to store all the material used to build the Final Project of the Da
 
 ## Description of the project 🔊
 
-The goal of the project
+The goal of the project is to find the best fitting model for predicting the house prices of the Ames city, a region of the United States, by applying advanced regressions techniques, such as Logistics Regression, Random Forest Regressor and Artificial Neural Networks.
 
 [Kaggle Challenge - House Prices Prediction](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/overview)
 
