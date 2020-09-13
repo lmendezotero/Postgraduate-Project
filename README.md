@@ -5,7 +5,7 @@ A repository to store all the material used to build the Final Project of the Da
 
 ## Description of the project 🔊
 
-
+The goal of the project
 
 [Kaggle Challenge - House Prices Prediction](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/overview)
 
