@@ -17,9 +17,6 @@ A repository to store all the material used to build the Final Project of the Da
 
 [PTT - Project Plan]()
 
-### Collaborative Notebooks & Other Resources 📋
-
-[Google Drive - Colab Notebooks](https://drive.google.com/drive/folders/1kjrA89WLGD88FQKR8QYhqIiHiNRWg--l)
 
 
 ## Authors ✒️
