@@ -18,7 +18,9 @@ Here we store the material with which we have been working most of the life of t
 On another hand, we have created several Jupyter Notebooks to carry out detailed analysis and visualizations and testing some functionalities and performance of the models generated in python, specially the Logistics Regression and Random Forest. Finally, we have saved the csv and pkl files generated with the different notebooks in various subfolders to classify the information and avoid confusion.
 
 ### Kaggle Competition 📂
+Here there are available the Jupyter Notebooks where we have built the last versions of the regression models (Logistics Regression, Random Forest and ANN) and final results predicted by the models that we have delivered in the Kaggle Leaderboard platform. Furthermore, we have collected the results of each of the submissions made to review the performance of the models and the development of the project. 
 
+Below you can find the details of the Notebooks generated for the Kaggle competition:
 * [House Prices Prediction - Logistics Regression &d Random Forest Regressor](https://github.com/lmendezotero/Postgraduate-Project/blob/master/Kaggle%20Competition/House%20Prices%20Prediction%20-%20Kaggle%20Competition.ipynb)
 * [House Prices Prediction - Artificial Neural Networks](https://github.com/lmendezotero/Postgraduate-Project/blob/master/Kaggle%20Competition/ANN%20%26%20House%20Prices%20Prediction.ipynb)
 * [Overview Kaggle Submissions & Results](https://github.com/lmendezotero/Postgraduate-Project/blob/master/Kaggle%20Competition/Overview%20Kaggle%20Submissions.ipynb)
