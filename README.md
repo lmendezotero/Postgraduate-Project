@@ -3,7 +3,9 @@ A repository to store all the material used to build the Final Project of the Da
 
 ![alt text](https://github.com/lmendezotero/Postgraduate-Project/blob/master/House%20Prices%20Prediction/Pictures/HOUSE_PRICE_PREDICTION.PNG)
 
-### Description of the project
+### Description of the project 🔊
+
+
 
 [Kaggle Challenge - House Prices Prediction](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/overview)
 
@@ -14,8 +16,6 @@ A repository to store all the material used to build the Final Project of the Da
 [Jupyter Notebook - House Prices Prediction](https://github.com/lmendezotero/Postgraduate-Project/blob/master/House%20Prices%20Prediction/House%20Prices%20Prediction.ipynb)
 
 [PTT - House Prices Prediction](https://1drv.ms/p/s!AgWTAJ13Zxntgk9s6RvyMqEin8Qu?e=PYdvNY)
-
-[PTT - Project Plan]()
 
 
 
