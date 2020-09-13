@@ -1,1 +1,22 @@
+A folder to store all the instructions and descriptions about the House Prices Prediction Kaggle competition, Jupyter Notebooks created to analyze the case studay and CSV/pkl files 
+generated in each of the notebooks.
 
+Details of the structure of the folders:
+
+* BASELINE MODELS FILES Folder >>> Test and Train data ready to be trained and tested by the Logistics Regression, the Random Forest Regressor and the Artificial Neural Network
+models.
+* CLEANED DATA Folder >>> Train and test data cleaned after removing null values and other columns irrelevant for the analysis.
+* ORIGINAL DATA Folder >>> The train and tes data exported from the Kaggle portal.
+* PICTURES Folder >>> All the pictures used in the Jupyter Notebooks.
+* PREDICTED VALUES Folder >>> SalePrice values predicted by the Logistics Regression and the Random Forest Regressor.
+
+Below you can find the main Jupyter Notebook created to build a predictive regression model that could be able to learn through the input variables:
+* House Prices Prediction - Original Model Construction.ipynb
+
+We have created other Notebooks created to test some functionalities:
+* Categorical Data - Analysis & Testing.ipynb
+* Categorical Data - Dummy Variables Testing.ipynb
+* Random Forest Regressor Model.ipynb
+* Testing Variables Distribution Applying 'Logarithms'.ipynb
+
+Finally, there are other documents in the this folder related to Kaggle instructions, Kaggle documentation and internal files used by us during the development of the project.
