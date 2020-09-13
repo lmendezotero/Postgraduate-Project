@@ -11,11 +11,14 @@ We have created a working team (bcnDataScience) in the Leaderboard of the Kaggle
 
 ## Folders Structure & Content 📋
 The material contained in this repository is divided into 2 main folders:
+
 ### House Prices Prediction 📂
 
 ### Kaggle Competition 📂
 
-* [House Prices Prediction - Logistics Regression and Random Forest Regressor](https://github.com/lmendezotero/Postgraduate-Project/blob/master/Kaggle%20Competition/House%20Prices%20Prediction%20-%20Kaggle%20Competition.ipynb)
+* [House Prices Prediction - Logistics Regression &d Random Forest Regressor](https://github.com/lmendezotero/Postgraduate-Project/blob/master/Kaggle%20Competition/House%20Prices%20Prediction%20-%20Kaggle%20Competition.ipynb)
+* [House Prices Prediction - Artificial Neural Networks](https://github.com/lmendezotero/Postgraduate-Project/blob/master/Kaggle%20Competition/ANN%20%26%20House%20Prices%20Prediction.ipynb)
+* [Overview Kaggle Submissions & Results](https://github.com/lmendezotero/Postgraduate-Project/blob/master/Kaggle%20Competition/Overview%20Kaggle%20Submissions.ipynb)
 
 ## Project Presentation 🎬
 In the following PowerPoint file you can find a short summary about the development and final results achieved in the project:
