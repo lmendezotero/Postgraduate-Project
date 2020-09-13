@@ -12,7 +12,7 @@ Details of the structure of the folders:
 Below you can find the main Jupyter Notebook created to build a predictive regression model that could be able to learn through the input variables:
 * House Prices Prediction - Original Model Construction.ipynb
 
-We have created other Notebooks created to test some functionalities:
+We have created other Notebooks created to test some functionalities, which are linked to the notebook detailed before:
 * Categorical Data - Analysis & Testing.ipynb
 * Categorical Data - Dummy Variables Testing.ipynb
 * Random Forest Regressor Model.ipynb
