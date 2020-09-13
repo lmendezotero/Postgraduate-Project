@@ -15,7 +15,7 @@ The material contained in this repository is divided into 2 main folders:
 ### House Prices Prediction 📂
 Here we store the material with which we have been working most of the life of the project. On one hand, documents with explanations of the challenge and data downloaded from the kaggle platform are available.
 
-On another hand, we have created several Jupyter Notebooks to carry out detailed analysis and visualizations of the data and test functionalities and performance of the models generated in python. Finally, we have saved the csv and pkl files generated with the different notebooks in various subfolders to classify the information and avoid confusion.
+On another hand, we have created several Jupyter Notebooks to carry out detailed analysis and visualizations and testing some functionalities and performance of the models generated in python. Finally, we have saved the csv and pkl files generated with the different notebooks in various subfolders to classify the information and avoid confusion.
 
 ### Kaggle Competition 📂
 
