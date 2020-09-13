@@ -11,9 +11,7 @@ We have created a working team (bcnDataScience) in the Leaderboard of the Kaggle
 
 ## Folders Structure & Content 📋
 
-[OneNote - House Prices Prediction](https://1drv.ms/u/s!AgWTAJ13ZxntgiNbXYB0wrdY_iik?e=D2tikf)
 
-[Jupyter Notebook - House Prices Prediction](https://github.com/lmendezotero/Postgraduate-Project/blob/master/House%20Prices%20Prediction/House%20Prices%20Prediction.ipynb)
 
 
 ## Project Presentation 🎬
