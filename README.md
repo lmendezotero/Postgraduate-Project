@@ -3,9 +3,6 @@ A repository to store all the material used to build the Final Project of the Da
 
 ![alt text](https://github.com/lmendezotero/Postgraduate-Project/blob/master/House%20Prices%20Prediction/Pictures/HOUSE_PRICE_PREDICTION.PNG)
 
-## Project Duration ⏳
-From May 2020 until September 2020.
-
 ## Description of the project 🔊
 
 The goal of the project is to find the best fitting model for predicting the house prices of the Ames city, a region of the United States, by applying advanced regressions techniques. This case study is part of a kaggle competition, which is called [House Prices Prediction: Advanced Regression Techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/overview).
@@ -24,6 +21,8 @@ In the following PowerPoint file you can find a short summary about the developm
 
 [PTT - House Prices Prediction](https://1drv.ms/p/s!AgWTAJ13Zxntgk9s6RvyMqEin8Qu?e=PYdvNY)
 
+## Project Duration ⏳
+From May 2020 until September 2020.
 
 ## Authors ✒️
 
