@@ -1,7 +1,7 @@
 # House Prices Prediction Project 🚀
 A repository to store all the material used to build the Final Project of the Data Science Postgraduate Course in the University of Barcelona.
 
-![alt text](https://github.com/lmendezotero/Postgraduate-Project/blob/master/House%20Prices%20Prediction/HOUSE_PRICE_PREDICTION.PNG)
+![alt text](https://github.com/lmendezotero/Postgraduate-Project/blob/master/House%20Prices%20Prediction/Pictures/HOUSE_PRICE_PREDICTION.PNG)
 
 ### Description of the project
 
