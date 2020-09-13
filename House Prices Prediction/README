@@ -1,2 +1,6 @@
 A folder to store all the instructions and descriptions about the House Prices Prediction Kaggle competition, Jupyter Notebooks created to analyze the case studay and CSV files 
 generated in each of the notebooks.
+
+In the following link you can find the main Jupyter Notebook created to build a predictive regression model that could be able to learn through the input variables:
+
+[House Prices Prediction - Original Model Construction](https://github.com/lmendezotero/Postgraduate-Project/blob/master/House%20Prices%20Prediction/House%20Prices%20Prediction%20-%20Original%20Model%20Construction.ipynb)
