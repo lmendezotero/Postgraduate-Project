@@ -19,7 +19,7 @@ We have created a working team (bcnDataScience) in the Leaderboard of the Kaggle
 ## Project Presentation 🎬
 In the following PowerPoint file you can find a short summary about the development and final results achieved in the project:
 
-[PTT - House Prices Prediction](https://1drv.ms/p/s!AgWTAJ13Zxntgk9s6RvyMqEin8Qu?e=PYdvNY)
+[House Prices Prediction Project - September 2020](https://1drv.ms/p/s!AgWTAJ13Zxntgk9s6RvyMqEin8Qu?e=PYdvNY)
 
 ## Project Duration ⏳
 From May 2020 until September 2020.
