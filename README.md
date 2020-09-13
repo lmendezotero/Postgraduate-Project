@@ -9,7 +9,7 @@ The goal of the project is to find the best fitting model for predicting the hou
 
 We have created a working team (bcnDataScience) in the Leaderboard of the Kaggle competition to participate in it and get the best possible result. To do this, we have analyzed the data and created some regressions models based on Logistics Regression, Random Forest Regressor and Artificial Neural Networks.
 
-## Project Notes & Content 📋
+## Folders Structure & Content 📋
 
 [OneNote - House Prices Prediction](https://1drv.ms/u/s!AgWTAJ13ZxntgiNbXYB0wrdY_iik?e=D2tikf)
 
