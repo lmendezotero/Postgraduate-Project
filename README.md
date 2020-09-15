@@ -4,10 +4,9 @@ A repository to store all the material used to build the Final Project of the Da
 ![alt text](https://github.com/lmendezotero/Postgraduate-Project/blob/master/House%20Prices%20Prediction/Pictures/HOUSE_PRICE_PREDICTION.PNG)
 
 ## Description of the project 🔊
+In this project, we have conducted data analysis to determine whether the machine learning techniques can be used to predict the house pricing for a specific location in the United States. The data sets used in this project have been obtained from a Kaggle competition entitled [House Prices Prediction: Advanced Regression Techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/overview).
 
-The goal of the project is to find the best fitting model for predicting the house prices of the Ames city, a region of the United States, by applying advanced regressions techniques. This case study is part of a kaggle competition, which is called [House Prices Prediction: Advanced Regression Techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/overview).
-
-We have created a working team (bcnDataScience) in the Leaderboard of the Kaggle competition to participate in it and get the best possible result. To do this, we have analyzed the data and created some regressions models based on Logistics Regression, Random Forest Regressor and Artificial Neural Networks.
+To achieve it, we have created a working team (bcnDataScience) in the Leaderboard of the Kaggle competition to participate in it and get the best possible result. To do this, we have analyzed the data and created some regressions models based on Logistics Regression, Random Forest Regressor and Artificial Neural Networks.
 
 ## Folders Structure & Content 📋
 The material contained in this repository is divided into 2 main folders:
