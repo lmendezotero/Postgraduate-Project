@@ -27,7 +27,7 @@ Below you can find the details of the Notebooks generated for the Kaggle competi
 ## Project Presentation 🎬
 In the following PowerPoint file you can find a short summary about the development and final results achieved in the project:
 
-[House Prices Prediction Project - September 2020](https://1drv.ms/p/s!AgWTAJ13Zxntgk9s6RvyMqEin8Qu?e=PYdvNY)
+[House Prices Prediction Project - September 2020](https://github.com/lmendezotero/Postgraduate-Project/blob/master/House%20Prices%20Prediction/Data%20Science%20Project%20-%20House%20Prices%20Prediction.pdf)
 
 ## Project Duration ⏳
 From May 2020 until September 2020.
